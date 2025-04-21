@@ -1,0 +1,27 @@
+{
+  "name": "express-site",
+  "version": "1.0.0",
+  "description": "site",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiizinho/projects.github.io.git"
+  },
+  "keywords": [
+    "site"
+  ],
+  "author": "raiizinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiizinho/projects.github.io/issues"
+  },
+  "homepage": "https://github.com/raiizinho/projects.github.io#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}
